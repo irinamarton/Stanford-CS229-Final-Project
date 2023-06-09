@@ -1,4 +1,5 @@
 [<img src="https://github.com/irinamarton/CS229-Final-Project/blob/main/images/SUSig_Stack_red.png" width="200"/>](https://www.google.com/search?client=safari&rls=en&q=stanford+computer+science&ie=UTF-8&oe=UTF-8)
+
 CS229: Machine Learning 
 
 # Final Project: LLM & RL for Stock Trading
