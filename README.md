@@ -5,7 +5,7 @@
 CS229: Machine Learning
 
 
-Instructed by [<img src="[https://github.com/irinamarton/TensorFlow-Developer/blob/main/misc/laurence_moroney.png](https://ai.stanford.edu/~tengyuma/image/square_3594.jpg)" width="20" style="border-radius: 50%;"/> Tengyu Ma](https://ai.stanford.edu/~tengyuma/)[<img src="[https://github.com/irinamarton/TensorFlow-Developer/blob/main/misc/laurence_moroney.png](https://cs.stanford.edu/~chrismre/img/chrismre_headshot_lowres.jpg)" width="20"/> 
+Instructed by [<img src="[https://github.com/irinamarton/TensorFlow-Developer/blob/main/misc/laurence_moroney.png](https://ai.stanford.edu/~tengyuma/image/square_3594.jpg)" width="20"/> Tengyu Ma](https://ai.stanford.edu/~tengyuma/)[<img src="[https://github.com/irinamarton/TensorFlow-Developer/blob/main/misc/laurence_moroney.png](https://cs.stanford.edu/~chrismre/img/chrismre_headshot_lowres.jpg)" width="20"/> 
 Christopher Ré](https://cs.stanford.edu/~chrismre/)
 
 
