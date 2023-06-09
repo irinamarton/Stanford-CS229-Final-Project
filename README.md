@@ -1,4 +1,6 @@
-[<img src="https://github.com/irinamarton/Stanford-CS229-Final-Project/blob/main/images/stanford-line1-3.png" width="600px"/>](https://cs.stanford.edu)
+<div align="right">
+    <img src="https://github.com/irinamarton/Stanford-CS229-Final-Project/blob/main/images/SUSig_Stack_red.png" width="200px"/>
+</div>
 
 [CS229: Machine Learning](https://online.stanford.edu/courses/cs229-machine-learning)
 
@@ -13,3 +15,9 @@ Instructed by [<img src="https://ai.stanford.edu/~tengyuma/image/square_3594.jpg
 ###### [Presentation]()
 
 ###### [Datasets](https://github.com/irinamarton/Stanford-CS229-Final-Project/tree/main/AAPL%20Datasets)
+
+
+
+
+
+[<img src="https://github.com/irinamarton/Stanford-CS229-Final-Project/blob/main/images/stanford-line1-3.png" width="300px"/>](https://cs.stanford.edu)
