@@ -8,8 +8,8 @@ Instructed by [<img src="https://ai.stanford.edu/~tengyuma/image/square_3594.jpg
 
 # Final Project: LLM & RL for Stock Trading
 
-[CODE (Google Colab Notebook)](https://github.com/irinamarton/CS229-Final-Project/blob/main/LLM%20and%20RL%20For%20Stock%20Trading%20(CS229%20Final%20Project).ipynb)
+## [CODE (Google Colab Notebook)](https://github.com/irinamarton/CS229-Final-Project/blob/main/LLM%20and%20RL%20For%20Stock%20Trading%20(CS229%20Final%20Project).ipynb)
 
-PAPER
+## PAPER
 
-[DATASETS]()
+### [Datasets](https://github.com/irinamarton/Stanford-CS229-Final-Project/tree/main/AAPL%20Datasets)
