@@ -1,6 +1,4 @@
-<div align="right">
-    <img src="https://github.com/irinamarton/CS229-Final-Project/blob/main/images/SUSig_Stack_red.png" width="200"/>
-</div>
+[<img src="https://github.com/irinamarton/Stanford-CS229-Final-Project/blob/main/images/stanford-line1-3.png" width="600px"/>](https://cs.stanford.edu)
 
 [CS229: Machine Learning <img src="https://github.com/irinamarton/Stanford-CS229-Final-Project/blob/main/images/stanford-line1-3.png" width="600px"/>](https://online.stanford.edu/courses/cs229-machine-learning)
 
