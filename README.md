@@ -16,11 +16,9 @@ Instructed by [<img src="https://ai.stanford.edu/~tengyuma/image/square_3594.jpg
 
 ### [PAPER](https://github.com/irinamarton/Stanford-CS229-Final-Project/blob/main/LLM%20%26%20Safe%20RL%20for%20Stock%20Trading%20-%20Irina%20A%20Marton.pdf.pdf)
 
-###### [Presentation]()
+###### [Presentation](https://drive.google.com/file/d/1oJ-5hwe7Bf2hzWzZleC3Ydh_c-ZhF6GI/view?usp=share_link)
 
-###### [Datasets]()
-
-https://github.com/irinamarton/Stanford-CS229-Final-Project/blob/main/CS229%20-%20Poster%20-%20Irina%20A%20Marton%20-%20s.jpg
+###### [Datasets](https://github.com/irinamarton/Stanford-CS229-Final-Project/tree/main/AAPL%20Datasets)
 
 
 
