@@ -14,7 +14,7 @@ Instructed by [<img src="https://ai.stanford.edu/~tengyuma/image/square_3594.jpg
 
 ### [CODE (Google Colab Notebook)](https://github.com/irinamarton/Stanford-CS229-Final-Project/blob/main/CS229_Final_Project_LLM_and_Safe_RL_For_Short_Term_Stock_Trading.ipynb)
 
-### [PAPER](https://github.com/irinamarton/Stanford-CS229-Final-Project/blob/main/LLM%20%26%20Safe%20RL%20for%20Stock%20Trading%20-%20Irina%20A%20Marton.pdf.pdf)
+### [PAPER](https://github.com/irinamarton/Stanford-CS229-Final-Project/blob/main/LLM%20%26%20Safe%20RL%20for%20Stock%20Trading%20-%20Irina%20A%20Marton.pdf)
 
 ###### [Presentation](https://drive.google.com/file/d/1oJ-5hwe7Bf2hzWzZleC3Ydh_c-ZhF6GI/view?usp=share_link)
 
